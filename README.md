@@ -48,7 +48,7 @@ All images were preprocessed and resized to **224×224 pixels** before training.
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/plant-disease-detection.git
+git clone https://github.com/yourusername/plant-disease-detection.git](https://github.com/yourusername/plant-disease-detection.git](https://github.com/yourusername/plant-disease-detection.git
 
 # Navigate to the project directory
 cd plant-disease-detection
