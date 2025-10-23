@@ -41,9 +41,6 @@ All images were preprocessed and resized to **224×224 pixels** before training.
 - **Python**
 - **TensorFlow / Keras**
 - **NumPy**
-- **Pandas**
-- **Matplotlib**
-- **Seaborn**
 
 ---
 
@@ -59,13 +56,8 @@ cd plant-disease-detection
 # Install dependencies
 pip install -r requirements.txt
 
-# Train the model
-python train_model.py
-
 # Test the model
-python test_model.py
+python test.py
 
 # Run the web app
 python app.py
-# or
-streamlit run app.py
